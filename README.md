@@ -1,4 +1,4 @@
-# project-name  
+# notes-app  
 ## Table of content  
 * [About the project](#about-the-project)
 * [Technologies](#technologies)
